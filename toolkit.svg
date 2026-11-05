@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="251" height="24" viewBox="0 0 251 24" role="img" aria-labelledby="title">
+  <title id="title">Python, Git, Docker and pytest</title>
+  <rect width="64" height="24" rx="5" fill="#265476"/>
+  <rect x="70" width="41" height="24" rx="5" fill="#374151"/>
+  <rect x="117" width="65" height="24" rx="5" fill="#265476"/>
+  <rect x="188" width="63" height="24" rx="5" fill="#374151"/>
+  <g fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="600" text-anchor="middle">
+    <text x="32" y="16">Python</text>
+    <text x="90.5" y="16">Git</text>
+    <text x="149.5" y="16">Docker</text>
+    <text x="219.5" y="16">pytest</text>
+  </g>
+</svg>
