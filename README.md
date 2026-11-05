@@ -16,10 +16,7 @@ I helped develop a collaborative tabletop game that raises awareness of disabili
 
 ## Toolkit
 
-![Python](https://img.shields.io/badge/Python-265476?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-374151?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-265476?style=flat-square&logo=docker&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-374151?style=flat-square&logo=pytest&logoColor=white)
+![Python, Git, Docker and pytest](./toolkit.svg)
 
 **Scientific computing** · MATLAB, Simulink and numerical modelling
 
